@@ -5,7 +5,7 @@
   - [Helpers](#helpers)
   - [Devices](#devices)
     - [ZLinky_TIC](#zlinky_tic)
-      - [Firmware 0x00000005 ❌](#firmware-0x00000005-)
+      - [Firmware < 0x00000005 ❌](#firmware-0x00000005-)
       - [Firmware 0x00000006 ❌](#firmware-0x00000006-)
 
 ## Introduction
@@ -31,7 +31,7 @@ Device signature can be acquired by clicking on the "Zigbee Device Signature" bu
 
 ### ZLinky_TIC
 
-#### Firmware 0x00000005 ❌
+#### Firmware < 0x00000005 ❌
 
 #### Firmware 0x00000006 ❌
 
